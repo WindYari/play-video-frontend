@@ -16,6 +16,12 @@ A responsive authentication UI built with **React**, **TypeScript**, and **Tailw
 
 ---
 
+## 🛠️ Future Improvements
+- Role-based access control (RBAC)
+- Refresh token rotation
+- Forgot password & email verification
+- Full test coverage
+
 ## 🔧 Stack
 
 ### Frontend:
