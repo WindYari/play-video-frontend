@@ -22,7 +22,7 @@ A responsive authentication UI built with **React**, **TypeScript**, and **Tailw
 - Forgot password & email verification
 - Full test coverage
 
-## 🔧 Stack
+## 🔧 Tech Stack
 
 ### Frontend:
 - [React](https://react.dev/)
